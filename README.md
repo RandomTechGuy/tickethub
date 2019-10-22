@@ -1,2 +1,2 @@
 # tickethub
-tickethub app
+tickethub app built with android stdio
