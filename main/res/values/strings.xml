@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ticket Hub</string>
+    <string name="txtTitle">Convert Ticket Hub</string>
+    <string name="gImage">Georgia Bulldogs</string>
+    <string name="btnCost">Calculate Total</string>
+    <string name="howMany">How Many Tickets</string>
+    <string name="radEvent1">Georgia vs Florida</string>
+    <string name="radEvent2">Georgia vs Auburn</string>
+    <string name="radEvent3">Georgia vs Georgia Tech</string>
+    <string name="txtResult">Total Cost</string>
+</resources>
